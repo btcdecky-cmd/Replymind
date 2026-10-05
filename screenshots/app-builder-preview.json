@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "ReplyMind",
+      "hasCanvas": false,
+      "bodyTextLen": 2015,
+      "bodyTextHash": "12d916be121271cf541bf6ddeba0823aab4a31c316e17fe1493eeedee36a6e92",
+      "bodyTextPrefix": "ReplyMind PRIVATE REPLY ASSISTANT Know exactly what to say. Uplo",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "ReplyMind",
+      "hasCanvas": false,
+      "bodyTextLen": 2015,
+      "bodyTextHash": "12d916be121271cf541bf6ddeba0823aab4a31c316e17fe1493eeedee36a6e92",
+      "bodyTextPrefix": "ReplyMind PRIVATE REPLY ASSISTANT Know exactly what to say. Uplo",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
